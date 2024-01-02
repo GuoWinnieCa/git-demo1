@@ -14,7 +14,7 @@ print(x)
 for i in range(5):
     y = int(input(f"請猜數字({start}~{end}):"))
     if y == x:
-        print("猜對了!")
+        print("猜對了!!!!!")
         break
 
     else:
@@ -26,7 +26,7 @@ for i in range(5):
         else:
             if start < y:
                 start = y + 1
-            print("猜高一點!")
+            print("猜高一點!!!!!")
 if y != x:
     print(f"沒有猜對, 正確答案是:{x}")
 else:
