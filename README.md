@@ -158,9 +158,9 @@
 
 ### 新增/修正/刪除分支
 - git add .
-- git commit "message"
-- git push 推送
+- git commit -m "message"
 
-- git pull 拉取
+### 本地端同步到雲端
+- git push 推送
 
 
