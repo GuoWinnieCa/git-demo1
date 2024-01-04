@@ -158,7 +158,7 @@
 
 ### 新增/修正/刪除分支
 - git add .
-- git commit
+- git commit "message"
 - git push 推送
 
 - git pull 拉取
